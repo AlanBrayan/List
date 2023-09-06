@@ -1,0 +1,13 @@
+Crear prpyecto (CMD)
+vue create test-vue
+
+
+Rutas 
+cd (nombre del proyecto)
+vue add router
+
+
+
+Componentes
+
+
